@@ -7,5 +7,6 @@ package com.it.test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.printf("这是我的第一个git工程");
+        System.out.printf("这是新增加的一段代码");
     }
 }
